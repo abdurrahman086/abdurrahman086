@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hello! I'm Abdurrahman, a passionate technology enthusiast and educator with a deep expertise in Embedded system and Internet of Things (IoT). 💻🤖<br><br>I specialize in building innovative, end-to-end solutions that bridge the gap between clean code and real-world hardware applications. From designing automated electronics to developing smart systems, I am driven by a mission to solve real-world problems through technology.<br>🚀 What I Do:<br><br>    Innovate: Designing smart systems and robotics with precise automation.<br><br>    Educate: Creating materials and hands-on projects to inspire the next generation of tech leaders.<br><br>    Develop: Building robust software architectures that integrate seamlessly with hardware.
+👋 Hello! I'm Abdurrahman, a passionate technology enthusiast and educator with a deep expertise in Embedded system and Internet of Things (IoT). 💻🤖<br><br>I specialize in building innovative, end-to-end solutions that bridge the gap between clean code and real-world hardware applications. From designing automated electronics to developing smart systems, I am driven by a mission to solve real-world problems through technology.<br>🚀
+
+What I Do:<br><br>    Innovate: Designing smart systems and robotics with precise automation.<br><br>    Educate: Creating materials and hands-on projects to inspire the next generation of tech leaders.<br><br>    Develop: Building robust software architectures that integrate seamlessly with hardware.
 
 
 ## 🌐 Socials:
